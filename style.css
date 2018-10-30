@@ -1,0 +1,47 @@
+.spy {
+    height: 600px;
+    overflow-y: scroll;
+    position: relative;
+}
+
+#navbar {
+    height: 600px;
+    overflow-y: scroll;
+}
+
+code {
+    background-color: black;
+    border-radius: 1%;
+    padding: 0.1em;
+    font-size: 1.5em;
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main-section header {
+    font-size: 3em;
+    color: orangered;
+}
+
+li {
+    font-size: 2em;
+    color: darkcyan;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+p code {
+    font-size: 1em;
+}
+
+.code {
+    background-color: black;
+}
+
+ul li {
+    font-size: 1em;
+    color: black;
+}
